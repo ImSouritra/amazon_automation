@@ -1,3 +1,4 @@
+<h1>Amazon Automation Bot</h1>
 Introducing our Amazon automation bot, a powerful tool designed to help you quickly and easily extract the names, prices, and images of different products listed on Amazon.
 Our bot uses advanced web scraping technology to automatically navigate the Amazon website and extract the information you need. With just a few clicks, you can use our bot to collect data on thousands of products at once, saving you hours of manual work and allowing you to focus on more important tasks.
 Our bot is highly accurate and reliable, thanks to its advanced algorithms that have been specifically designed to handle the complexity of Amazon's website. We have also built in advanced error detection and recovery mechanisms, ensuring that you can trust the data you receive.
